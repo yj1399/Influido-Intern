@@ -1,0 +1,254 @@
+.navbar-nav li {
+        margin-left : 8em;
+        margin-right : 8em;
+    }
+.align{
+	position: absolute;
+   bottom: 8px;
+   right: 16px;
+}
+.contain{
+
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	margin-left: 2em;
+
+}
+.contain1{
+
+	width: 62%;
+	float: right;
+	margin: 1.66%;
+	margin-left: 2em;
+
+}
+.card-header a {
+	margin-left: 2em;
+	margin-right: 1em;
+
+}
+.card-body button{
+ 
+    margin-right: 2em;
+    margin-top: 1em;
+}
+
+.card-body img{
+
+	width: 100px;
+	margin-right: 1em;
+}
+
+.card-header img{
+
+	width: 70px;
+}
+.le{
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 100%;
+    margin-left: 5em;
+}
+
+.btn-group{
+
+	margin-right: 6em;
+	margin-left: 1em;
+}
+.bd{
+
+	width: 80%;
+	margin-left: 6.5em;
+	
+
+}
+.butt {
+   border: 1px outset blue;
+   background-color: lightBlue;
+   height:50px;
+   width:50px;
+   cursor:pointer;
+   margin-top: 1em;
+   margin-right: 2em;
+}
+.bd1{
+
+	width: 80%;
+	margin-left: 6.5em;
+
+}
+.le1{
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 90%;
+    margin-left: 5em;
+}
+.butt:hover {
+   background-color: blue;
+   color:white;
+}
+.df button{
+ 
+    margin-right: 2em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+.card{
+
+	margin-left: 5em;
+}
+.progress{
+
+	width: 30%;
+}
+.p1{
+
+	height: 10px;
+}
+.p2{
+
+    text-align: right;
+	height: 10px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("influido-illustration.png");
+
+  /* Full height */
+  height: 170%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bd3{
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 80%;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.df2 button{
+ 
+    margin-right: 17em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+.df5 button{
+ 
+    margin-right: 10em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+.form-group textarea{
+
+	width: 80%;
+
+}
+.form-group1{
+
+	width: 50%;
+}
+.df20 button{
+ 
+    margin-right: 20em;
+    margin-top: 1em;
+    margin-left: 15em;
+}
+.le44{
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 100%;
+    margin-left: 35em;
+}
+.le6{
+	margin: 2.00%;
+    color: green;
+    float: center;
+    width: 100%;
+    margin-left: 40em;
+
+}
+
+.imgg img{
+
+
+	float: left;
+	height: 100px;
+}
+.ff1{
+
+	
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 40%;
+    margin-left: : 10em;
+    margin-top: 7em;
+
+}
+.le77{
+	margin: 2.00%;
+    color: green;
+    float: left;
+    width: 40%;
+    margin-right: 10em;
+
+}
+.df5 textarea{
+ 
+	width: 20%;
+	 margin-right: 2em;
+    margin-top: 1em;
+    margin-left: 15em;
+}
+}
+.form-control{
+	margin-top: 2em;
+
+}
+.op input{
+    margin-top: 2em;
+	margin-right: 2em;
+	margin-left: 2em;
+}
+.bdff{
+
+	width: 80%;
+	margin-left: 2em;
+	margin-top: 3em;
+	margin-right: 5em;
+	
+}
+.form-group1 textarea{
+
+    margin-right: 2em;
+	width: 60%;
+
+}
+.left{
+
+    width:50%;
+	float: left;
+	height: 400%;
+}
+.right{
+
+
+	width: 50%;
+	float: right;
+	height: 400%;
+}
